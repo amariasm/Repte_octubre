@@ -9,10 +9,4 @@ Datasets y Variables:
 
 - Features: El dataset contiene 6 features en 6 columnas, que son los parámetros medidos por los diferentes sensores. Estos corresponden a las vibraciones detectadas en ciertos puntos de la ladera del volcán.
 
-- Target: El target corresponde al 'label' que clasifica los tipos de erupciones volcánicas en función de los features medidos por los sensores.
-
-* Target 0 corresponde a una erupción de tipo Pliniana
-* Target 1 corresponde a una erupción de tipo Peleana
-* Target 2 corresponde a una erupción de tipo Vulcaniana
-* Target 3 corresponde a una erupción de tipo Hawaiana
-* Target 4 corresponde a una erupción de tipo Estromboliana
+- Target: El target corresponde al 'label' que clasifica los tipos de erupciones volcánicas en función de los features medidos por los sensores. a) Target 0 corresponde a una erupción de tipo Pliniana, b)Target 1 corresponde a una erupción de tipo Peleana, c) Target 2 corresponde a una erupción de tipo Vulcaniana, d) Target 3 corresponde a una erupción de tipo Hawaiana y e) Target 4 corresponde a una erupción de tipo Estromboliana.
