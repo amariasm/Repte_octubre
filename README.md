@@ -3,7 +3,7 @@ El objetivo del reto será realizar un modelo predictivo basado en Random Forest
 
 Una vez se haya hecho y entrenado el modelo predictivo, este se tendrá que emplear con los features del dataset de testing 'jm_test_X.csv'. Estas predicciones se tendrán que entregar en formato csv como en el ejemplo. Donde tendrá que aparecer tan solo una columna en la que en la primera fila sea un texto cualquiera y las predicciones empiecen en la fila 2.
 
-La calidad de la predicción se medirá a partir del f1-score (macro).# Repte_octubre
+La calidad de la predicción se medirá a partir del f1-score (macro).
 
 Datasets
 Variables del dataset:
