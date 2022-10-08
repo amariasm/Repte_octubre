@@ -12,8 +12,8 @@ Features: El dataset contiene 6 features en 6 columnas, que son los parámetros 
 
 Target: El target corresponde al 'label' que clasifica los tipos de erupciones volcánicas en función de los features medidos por los sensores.
 
-Target 0 corresponde a una erupción de tipo Pliniana
-Target 1 corresponde a una erupción de tipo Peleana
-Target 2 corresponde a una erupción de tipo Vulcaniana
-Target 3 corresponde a una erupción de tipo Hawaiana
-Target 4 corresponde a una erupción de tipo Estromboliana
+* Target 0 corresponde a una erupción de tipo Pliniana
+* Target 1 corresponde a una erupción de tipo Peleana
+* Target 2 corresponde a una erupción de tipo Vulcaniana
+* Target 3 corresponde a una erupción de tipo Hawaiana
+* Target 4 corresponde a una erupción de tipo Estromboliana
